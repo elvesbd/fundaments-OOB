@@ -1,0 +1,15 @@
+/home/ebd/ebd/baltaio/BackEndCourse/FundamentalsObjectOrientation/Balta/bin/Debug/net7.0/Balta
+/home/ebd/ebd/baltaio/BackEndCourse/FundamentalsObjectOrientation/Balta/bin/Debug/net7.0/Balta.deps.json
+/home/ebd/ebd/baltaio/BackEndCourse/FundamentalsObjectOrientation/Balta/bin/Debug/net7.0/Balta.runtimeconfig.json
+/home/ebd/ebd/baltaio/BackEndCourse/FundamentalsObjectOrientation/Balta/bin/Debug/net7.0/Balta.dll
+/home/ebd/ebd/baltaio/BackEndCourse/FundamentalsObjectOrientation/Balta/bin/Debug/net7.0/Balta.pdb
+/home/ebd/ebd/baltaio/BackEndCourse/FundamentalsObjectOrientation/Balta/obj/Debug/net7.0/Balta.csproj.AssemblyReference.cache
+/home/ebd/ebd/baltaio/BackEndCourse/FundamentalsObjectOrientation/Balta/obj/Debug/net7.0/Balta.GeneratedMSBuildEditorConfig.editorconfig
+/home/ebd/ebd/baltaio/BackEndCourse/FundamentalsObjectOrientation/Balta/obj/Debug/net7.0/Balta.AssemblyInfoInputs.cache
+/home/ebd/ebd/baltaio/BackEndCourse/FundamentalsObjectOrientation/Balta/obj/Debug/net7.0/Balta.AssemblyInfo.cs
+/home/ebd/ebd/baltaio/BackEndCourse/FundamentalsObjectOrientation/Balta/obj/Debug/net7.0/Balta.csproj.CoreCompileInputs.cache
+/home/ebd/ebd/baltaio/BackEndCourse/FundamentalsObjectOrientation/Balta/obj/Debug/net7.0/Balta.dll
+/home/ebd/ebd/baltaio/BackEndCourse/FundamentalsObjectOrientation/Balta/obj/Debug/net7.0/refint/Balta.dll
+/home/ebd/ebd/baltaio/BackEndCourse/FundamentalsObjectOrientation/Balta/obj/Debug/net7.0/Balta.pdb
+/home/ebd/ebd/baltaio/BackEndCourse/FundamentalsObjectOrientation/Balta/obj/Debug/net7.0/Balta.genruntimeconfig.cache
+/home/ebd/ebd/baltaio/BackEndCourse/FundamentalsObjectOrientation/Balta/obj/Debug/net7.0/ref/Balta.dll

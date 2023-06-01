@@ -2,9 +2,11 @@ namespace Balta.ContentContext
 {
     public abstract class Content
     {
-        public Content()
+        public Content(string titile, string url)
         {
             Id = Guid.NewGuid();
+            Title = titile;
+            Url = url;
         }
 
         public Guid Id { get; set; }
