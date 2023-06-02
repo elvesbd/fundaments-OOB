@@ -2,8 +2,8 @@ namespace Balta.NotificationContext
 {
     public sealed class Notification
     {
-        public string Property { get; set; }
-        public string Message { get; set; }
+        public string? Property { get; set; }
+        public string? Message { get; set; }
 
         public Notification(){}
 
